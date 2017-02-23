@@ -5,7 +5,7 @@ Course information can be found at https://www.udacity.com/course/deep-learning-
 
 - [x] [Assignment 1: notMNIST](1_notmnist.ipynb)
 - [x] [Assignment 2: fully connected](2_fullyconnected.ipynb)
-- [ ] [Assignment 3: regularization](3_regularization.ipynb)
-- [ ] [Assignment 3: convolutions](4_convolutions.ipynb)
-- [ ] [Assignment 3: word2vec](5_word2vec.ipynb)
-- [ ] [Assignment 3: lstm](6_lstm.ipynb)
+- [x] [Assignment 3: regularization](3_regularization.ipynb)
+- [x] [Assignment 4: convolutions](4_convolutions.ipynb)
+- [x] [Assignment 5: word2vec](5_word2vec.ipynb)
+- [ ] [Assignment 6: lstm](6_lstm.ipynb)
